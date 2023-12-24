@@ -1,0 +1,10 @@
+[
+	(1658, 'Lil Nas X', 'Old Town Road', 113000, 2019, Decimal('135.998'), 'hip hop, pop', Decimal('0.53'), 1, Decimal('-6.112')),
+	(1834, 'Lil Nas X', 'Panini', 114893, 2019, Decimal('153.848'), 'hip hop, pop', Decimal('0.594'), 5, Decimal('-6.146')),
+	(1662, 'XXXTENTACION', 'Jocelyn Flores', 119133, 2017, Decimal('134.021'), 'hip hop', Decimal('0.391'), 0, Decimal('-9.144')),
+	(1045, 'XXXTENTACION', 'changes', 121886, 2018, Decimal('64.934'), 'hip hop', None, None, None),
+	(835, 'Lil Pump', 'Gucci Gang', 124055, 2017, Decimal('119.889'), 'hip hop', None, None, None),
+	(456, 'Saweetie', 'My Type', 126446, 2019, Decimal('105.038'), 'hip hop, pop, R&B', None, None, None),
+	(1606, 'The xx', 'Intro', 127920, 2009, Decimal('100.363'), 'rock', Decimal('0.778'), 9, Decimal('-8.871')),
+	(139, 'Blueface', 'Thotiana', 129264, 2018, Decimal('104.025'), 'hip hop', None, None, None),
+]
